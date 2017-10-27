@@ -43,6 +43,7 @@
 > "npm install"
     
 <br>
+****Sugestion: Delete node modules,and reinstall modules using 'npm i' command****
 ****HOPE THIS HELPS, FEEL FREE TO PING ME on my E-mail,<br>
 ****IF YOU STILL FACE SOME ISSUE****************
  
