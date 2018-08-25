@@ -43,9 +43,7 @@
 > "npm install"
     
 <br>
-****HOPE THIS HELPS, FEEL FREE TO PING ME on my E-mail,<br>
-****IF YOU STILL FACE SOME ISSUE****************
- 
+**HOPE THIS HELPS. IF YOU STILL FACE SOME ISSUE, FEEL FREE TO PING ME on my E-mail.**<br> 
  
    
  
